@@ -1,1 +1,37 @@
+*{
+  width: 100%;
+  height: 100%;
+}
 
+#Title{
+  font-family: 'Brush ScriptMT', cursive;
+  font-size: 100px;
+  position: relative;
+  top: 20%;
+  text-align: center;
+  vertical-align: center;
+  display: inline;
+  color: black;
+}
+
+#Subtitle{
+  font-family: 'Brush ScriptMT', cursive;
+  font-size: 70px;
+  position: relative;
+  top: 20%;
+  text-align: center;
+  vertical-align: center;
+  display: inline;
+  color: CadetBlue;
+}
+
+p{
+  font-family: 'Brush ScriptMT', cursive;
+  font-size: 50px;
+  position: relative;
+  top: 20%;
+  text-align: left;
+  display: inline;
+  color: black;
+}
+ 
