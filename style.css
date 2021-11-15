@@ -3,7 +3,7 @@
   height: 100%;
 }
 
-#Title{
+#title{
   font-family: 'Trebuchet MS';
   font-size: 50px;
   position: relative;
@@ -14,7 +14,7 @@
   color: black;
 }
 
-#SubTitle{
+#subtitle{
   font-family: 'Trebuchet MS';
   font-size: 30px;
   position: relative;
